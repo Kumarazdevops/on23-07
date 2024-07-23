@@ -1,1 +1,2 @@
 "index"
+type index.txt
